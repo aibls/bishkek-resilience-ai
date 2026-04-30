@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "proposed_nodes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 74.686039143749525, 42.87393138029833 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 74.533771530922081, 42.872223263025688 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 74.622297241136749, 42.934267500146241 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 74.476533844396215, 42.86172472048387 ] } }
+]
+}
